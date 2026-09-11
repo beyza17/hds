@@ -154,89 +154,6 @@ Aşağıdaki grup, kaynaklarda birbiriyle **doğrudan çelişen** rivayet çiftl
 
 ---
 
-## G) AVRET/SETR-İ AVRET İLE İLGİLİ ÇELİŞKİLİ RİVAYETLER
-
-### G1. "Baldırlar da avret yerlerindendir"
-
-**Kaynak:** Tehzibü't-Tehzib 2/69
-
-- **Metodolojik not:** Bu kaynak dikkat gerektirir — *Tehzibü't-Tehzib* (İbn Hacer) aslında bir **ricâl** (ravi biyografileri) kitabıdır, hadis metinlerinin toplandığı bir hadis mecmuası değildir. Böyle eserlerde bir ravinin biyografisi anlatılırken rivayet ettiği bir hadis örnek olarak geçebilir; bu yüzden metnin asıl kaynağının (hangi hadis eserinden alındığının) ayrıca teyit edilmesi gerekir.
-
-### G2. Peygamber'in evde baldırları açık yatması
-
-**Kaynak:** Hanbel 1/71
-
-- **Statü:** Bu rivayet (Hz. Aişe'den, Buhari-Müslim'de de benzer varyantları vardır) sahih kabul edilir.
-- **Çelişki ve çözüm önerisi:** İki rivayet birlikte okununca "baldır avrettir" hükmü ile "Peygamber evde baldırı açık yatıyordu" arasında gerilim var gibi görünür. Klasik fıkıhçılar bunu **mahremiyet dereceleriyle** çözer: ev/mahrem alan içinde (özellikle yakın ashab/aile huzurunda) bir esneklik payı, toplum/namaz gibi resmi bağlamlarda ise daha sıkı örtünme kuralı olduğu söylenir. Ayrıca hadisin devamında Peygamber'in Ömer geldiğinde "duruşunu düzelttiği" (bazı rivayetlerde elbisesini topladığı) ayrıntısı, bizzat metnin içinde bir **kademeli hassasiyet** fikrini barındırır — yani hadisin kendisi zaten "herkese karşı aynı rahatlık gösterilmedi" ayrıntısını taşır.
-- **Hikmet boyutu:** Bu tür rivayetler, İslam hukukunda "avret" kavramının mutlak-tek bir ölçü olmadığını, bağlama (kiminle, nerede, hangi ilişki) göre değiştiğini gösteren örnekler olarak okunabilir.
-
----
-
-## H) ÖLÜ HAYVAN DERİSİNİN KULLANIMI
-
-### H1. "Deri işlendi mi temiz olur" — kullanılmasını teşvik
-
-**Kaynak:** Buhari 72/30
-
-### H2. "Ölü hayvanın ne derisinden ne sinirinden faydalanmayın" — yasak
-
-**Kaynak:** Hanbel 4/310, 311
-
-- **Çözüm önerisi (klasik):** Bu iki rivayet fıkıh literatüründe bilinen bir çelişki çiftidir. Çoğunluk (Hanefi, Şafii, bir kısım Maliki) H1'i esas alır: dabağlama/tabaklama (deri işleme) işleminin ölü hayvan derisini **temizlediği** görüşündedir; bu görüş Ümmü Seleme ve İbn Abbas'tan gelen destekleyici rivayetlerle güçlendirilir ve H2'nin ya **mensuh** (yürürlükten kaldırılmış) olduğu ya da tabaklanmamış/işlenmemiş deriye özgü olduğu söylenir. Hanbeli mezhebi ise H2'ye daha yakın durarak konuda daha ihtiyatlı bir çizgi izler — yani mezhepler arası fıkhi farkın kaynağı yine doğrudan bu rivayet çiftidir.
-- **Hikmet boyutu:** Tartışma aslında "necaset (pislik) sabit bir özellik midir, yoksa işlemle (kimyasal/fiziksel dönüşümle) değişebilir mi" sorusuna dayanır — fıkıh usulünde buna **istihale** (maddenin özünün değişmesi) denir ve günümüzde de (örn. jelatin, deri ürünleri tartışmalarında) fıkhî bir kavram olarak canlıdır.
-
----
-
-## I) SÜNNETİN KUR'AN'LA İLİŞKİSİ VE HADİSLERİN YAZIMI MESELESİ
-
-Bu grup, aslında bütün dokümanın çerçevesiyle doğrudan ilgili: **hadislerin kendisi, sünnetin Kur'an karşısındaki konumunu nasıl tarif ediyor?**
-
-### I1. Hadis yazma izninin verilmemesi
-
-**Kaynak:** Tirmizi, K. İlm 11
-
-- **Tarihsel bağlam — çok önemli:** Bu rivayet, hadislerin neden Peygamber'in vefatından yaklaşık **100-150 yıl sonra** (resmi tedvin, Emevi halifesi Ömer b. Abdülazîz'in ~100H/718 tarihli emriyle başlar) sistemli olarak yazıya geçirildiğini açıklayan rivayetlerden biridir. Karşısında, Abdullah b. Amr b. el-As'ın izin alıp *es-Sahifetü's-Sadıka* adında yazılı bir hadis mecmuası tuttuğuna dair rivayetler de vardır — yani burada da **çelişkili bir rivayet çifti** söz konusu.
-- **Hikmet/sonuç:** Bu çelişki, hadis tarihçiliğinde önemli bir gerçeği açığa çıkarır: ilk yüzyılda hadis büyük ölçüde **sözlü rivayet** yoluyla aktarılmış, yazılı kayıt istisnaidir. Bu da hadislerin sıhhatini değerlendirirken (isnad tenkidinin neden bu kadar merkezi hale geldiğinin) tarihsel gerekçesini oluşturur.
-
-### I2. "Kur'an'ın helal kıldıkları dışında helal kılmadım..."
-
-**Kaynak:** İbn Hişam, Sire 4 (Veda Hutbesi bağlamına yakın bir ifade)
-
-### I3. "Allah'ın kitabında helal kıldığı helal, haram kıldığı haram, sustuğu ise serbesttir (afv)"
-
-**Kaynak:** Ebu Davud K. Etime 39; Tirmizi K. Libas 6; İbn Mace K. Etime 60; El-Müracaat s. 20
-
-- **Metodolojik not:** *El-Müracaat*, Şii alim Şerefüddin el-Musevi ile Ezher şeyhi Selim el-Bişri arasında geçtiği iddia edilen, 20. yüzyılda yazılmış bir **mektuplaşma/polemik kitabıdır** — yani burada birincil hadis kaynağı değil, bir ikincil/aktarma kaynak söz konusu; asıl hadisin Ebu Davud, Tirmizi, İbn Mace'deki metniyle karşılaştırılması daha sağlıklı olur.
-- **Hikmet boyutu:** I2 ve I3, sünnetin kendi iddiası olarak **Kur'an'a bağımlı/tabi** bir konumda durduğunu söylüyor: yeni bir helal/haram icat etme yetkisi değil, Kur'an'ın çerçevesini açıklama işlevi. Bu, "Kur'an yeter mi, sünnet bağımsız bir kaynak mı" tartışmasının **hadis kaynaklarının kendi içinden** çıkan en güçlü dayanaklarından biridir.
-- **Önemli bir ironi:** Bu temayı taşıyan daha meşhur bir başka rivayet ("Benden duyduğunuzu Kur'an'a arz edin, uyuşuyorsa benden bilin") klasik hadis tenkitçileri (bizzat İmam Şafii dahil, *er-Risale*'de) tarafından **zayıf/isnadsız** bulunmuştur. Yani "sünnet Kur'an'a tabidir" diyen rivayetlerin bir kısmı, ironik biçimde, hadis usulünün kendi kriterleriyle sınıfta kalır. Bu, meseleye tek yönlü değil, çok katmanlı yaklaşmak gerektiğini gösterir.
-
----
-
-## J) PEYGAMBER'İN TEŞRİ (DİN KOYMA) İLE İÇTİHAT/BEŞER YÖNÜNÜ AYIRAN HADİSLER
-
-Bu grup, yukarıdaki birçok "çelişkinin" çözümünde kullanılabilecek **anahtar bir kavramı** içeriyor, bu yüzden ayrı başlıkta topladım.
-
-### J1. Hurma aşılama olayı
-
-**Kaynak:** Müslim, K. Fazail 140; Hanbel 3/152
-
-### J2. Bedir'de karargah yeri (Habbab b. el-Münzir'in önerisi)
-
-**Kaynak:** İbn Hişam, es-Sire; Taberi, et-Tarih
-
-### J3. Hakemlik/dava hükmü hadisi
-
-**Kaynak:** Kadı İyaz, eş-Şifa
-
-- **Ortak hikmet:** Bu üç rivayet, klasik usul ilminde **"Peygamber'in teşrî fiilleri" ile "gayr-ı teşrî (teşri dışı) fiilleri"** ayrımının temel dayanaklarıdır (bu ayrımı sistemli işleyen klasik usulcülere örnek: İzz b. Abdüsselam, Karafi). Kısaca:
-  - **Teşrî alan** (din/ibadet/helal-haram koyma): Peygamber burada vahiy ve ilahi denetim altındadır, hata payı kabul edilmez ("ismet" sıfatı buraya özgülenir).
-  - **Gayr-ı teşrî alan** (tarım tekniği, savaş taktiği, dava/mahkeme kararında elindeki delillere göre hüküm verme): Burada Peygamber **bir insan olarak tecrübe/ictihatla** hareket eder, hata edebilir ve kendisi bunu açıkça söyler ("Ben ancak bir insanım").
-  - J3'teki hadis özellikle çarpıcıdır: Peygamber, kendi verdiği bir mahkeme kararının **yanlış olabileceğini**, taraflardan biri daha iyi konuşup haksız yere hak kazanmışsa bunun ahirette o kişinin sorumluluğunda kalacağını, kendisinin de bu hatadan sorumlu tutulmayacağını (çünkü elindeki delillere göre karar verdiğini) açıkça belirtir.
-- **Kur'an'daki destekleyici örnekler:** Bu ayrımın Kur'an'da da karşılığı vardır — Abese Suresi 1-10 (Peygamber'in bir ayrıntıda eleştirilmesi) ve Enfal 67-68 (Bedir esirleri konusundaki kararının eleştirilmesi, "Allah'tan önceden yazılmış bir hüküm olmasaydı...") ayetleri, Peygamber'in bazı **dünyevi/ictihadi kararlarının Kur'an tarafından düzeltildiğini** gösterir. Yani bu ayrım dışarıdan getirilen bir teori değil, hem hadislerin hem Kur'an'ın kendi içinde işaretleri bulunan bir kavramdır.
-- **Pratik sonucu:** Bu anahtar, yukarıdaki bazı "çelişkili" gruplara (özellikle C bölümündeki fıkhi detaylar, B2'deki Ureyne olayının savaş/ceza hukuku bağlamı) da uygulanabilir: bir rivayet teşri (kalıcı din hükmü) niteliğinde mi, yoksa döneme/duruma özgü bir ictihat mı — bu ayrımı sormak, çoğu zaman çelişki gibi görünen tabloyu netleştirir.
-
----
-
 ## Genel Örüntüler (Sentez)
 
 Yukarıdaki tek tek incelemeden çıkan tekrarlayan örüntüler şunlar:
@@ -247,16 +164,12 @@ Yukarıdaki tek tek incelemeden çıkan tekrarlayan örüntüler şunlar:
 4. **Toplumsal/kültürel içerikli hadisler** (D1-D3), dönemin Arap/Yakın Doğu toplumsal normlarını yansıtma ihtimali en yüksek olan gruptur; Kur'an'ın evrensel ilkeleriyle (eşitlik, süsün helalliği) gerilim taşır.
 5. **Gayb/olağanüstü hadisler** (E1-E2), sahih senetle nakledilse bile metin açısından en çok itiraza uğrayan gruptur; hatta bizzat sahabe (Hz. Aişe) tarafından düzeltilmiş örnekler vardır — yani "metin tenkidi" (hadisin içeriğini Kur'an ve akılla sınama) İslam'ın kendi geleneği içinde de var olan bir yöntemdir, dışarıdan ithal bir yaklaşım değildir.
 6. **Fazilet/sevap hadisleri** (F1-F2), tarih boyunca en çok uydurmaya (vaz') maruz kalmış kategoridir; bunun bilinen sosyal sebebi, vaizlerin cemaati belirli ibadetlere teşvik etmek için abartılı rivayetler üretmesidir.
-7. **Kaynağın türüne dikkat etmek gerekir** (G1, I3 örnekleri): bazı rivayetler doğrudan hadis mecmualarından değil, ricâl kitaplarından (Tehzibü't-Tehzib gibi) veya çok sonraki dönemde yazılmış polemik/derleme eserlerden (El-Müracaat gibi) geliyor. Bu, rivayetin *yanlış* olduğu anlamına gelmez ama orijinal hadis kaynağıyla teyit edilmesini gerektirir.
-8. **En kullanışlı çözüm anahtarı, Peygamber'in "teşrî" (din koyma) ile "gayr-ı teşrî" (beşerî/ictihadî) fiillerini ayırmaktır** (J1-J3). Bu ayrım hem klasik usul ilminde hem de Kur'an'ın kendisinde (Abese, Enfal 67-68) örneklidir ve yukarıdaki birçok "çelişkinin" aslında farklı kategorilere ait rivayetlerin yan yana konmasından kaynaklandığını gösterir.
-9. **Sünnetin Kur'an karşısındaki konumunu tarif eden hadisler** (I1-I3) ilginç bir meta-durum sergiler: sünnetin kendisini Kur'an'a tabi/bağımlı gösteren rivayetlerin bir kısmı, hadis usulünün kendi kriterleriyle zayıf bulunabiliyor. Bu, "Kur'an mı sünnet mi" tartışmasının basit bir ikilikle çözülemeyecek kadar katmanlı olduğunu gösterir.
 
 ## Kaynakça Notu (kullanılan yöntem literatürü)
 
 - İbn Kuteybe, *Te'vilü Muhtelifi'l-Hadis* (çelişkili hadisleri uzlaştırma girişimi, 9. yy)
 - Irakî, İhyau Ulumiddin üzerine *tahric* çalışması (Gazali'nin hadislerinin sıhhat derecesini inceler)
-- İzz b. Abdüsselam / Karafi: Peygamber'in teşrî – gayr-ı teşrî fiilleri ayrımı üzerine klasik usul literatürü
-- Klasik hadis usulü kavramları: sahih / hasen / zayıf / mevzu, nesh, cem-te'lif, metin tenkidi (hadisin muhteva/Kur'an uyumu açısından sınanması), istihale (maddenin özünün işlemle değişmesi)
+- Klasik hadis usulü kavramları: sahih / hasen / zayıf / mevzu, nesh, cem-te'lif, metin tenkidi (hadisin muhteva/Kur'an uyumu açısından sınanması)
 
 ---
 
